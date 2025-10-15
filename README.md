@@ -1,4 +1,9 @@
-# Dashboard_PowerBI_RelatorioFinanceiro
+# Dashboard PowerBI - Relatório Financeiro
+
+<img width="1384" height="783" alt="image" src="https://github.com/user-attachments/assets/66d15fa3-8739-4072-8b75-125d6d366b51" />
+
+<img width="1384" height="783" alt="image" src="https://github.com/user-attachments/assets/478380e3-5786-4cd5-ac13-9fb121798e6b" />
+
 
 Este projeto de Business Intelligence foi desenvolvido com foco em facilitar a análise de desempenho comercial por meio de uma interface visual clara e interativa. Foram inseridos cartões indicadores que apresentam os principais KPIs, como total de vendas, custo das mercadorias vendidas, média de descontos, unidades vendidas e média de vendas, proporcionando uma visão rápida e direta dos resultados gerais.
 
